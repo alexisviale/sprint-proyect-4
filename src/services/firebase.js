@@ -3,12 +3,13 @@ import { getFirestore } from "firebase/firestore";
 import { getAuth } from "firebase/auth";
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBbdsHaLukACx8upH8j1ddtI6ahI7IL8Kw",
-  authDomain: "twitter-dev-d3e1c.firebaseapp.com",
-  projectId: "twitter-dev-d3e1c",
-  storageBucket: "twitter-dev-d3e1c.appspot.com",
-  messagingSenderId: "575422251088",
-  appId: "1:575422251088:web:f85e317988387088fdd155",
+  apiKey: "AIzaSyAFvgCbde2pyPtyp48uaN0bSh97rR4lIPE",
+  authDomain: "devs-united-f8fe5.firebaseapp.com",
+  projectId: "devs-united-f8fe5",
+  storageBucket: "devs-united-f8fe5.appspot.com",
+  messagingSenderId: "683682274530",
+  appId: "1:683682274530:web:958028b895d43af8f452bb",
+  measurementId: "G-S8VKZMF2Z1"
 };
 
 // Initialize Firebase
